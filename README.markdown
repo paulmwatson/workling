@@ -160,7 +160,7 @@ RabbitMQ is a reliable, high performance queue server written in erlang. If you'
 
 A lot of Ruby people have been talking about using RabbitMQ as their Queue of choice. Soundcloud.com are using it, as is new bamboo founder Johnathan Conway, who is using it at his video startup http://www.vzaar.com/. He says: 
 
-> RabbitMQ – Now this is the matrons knockers when it comes to kick ass, ultra fast and scalable messaging. It simply rocks, with performance off the hook. It’s written in Erlang and supports the AMPQ protocol. 
+> RabbitMQ – Now this is the matron's knockers when it comes to kick ass, ultra fast and scalable messaging. It simply rocks, with performance off the hook. It’s written in Erlang and supports the AMPQ protocol. 
 
 If you're on OSX, you can get started with RabbitMQ by following the installation instructions [here](http://playtype.net/past/2008/10/9/installing_rabbitmq_on_osx/). To get an idea of how to directly connect to RabbitMQ using ruby, have a look at [this article](http://playtype.net/past/2008/10/10/kickass_queuing_over_ruby_using_amqp).
 
